@@ -1,0 +1,5 @@
+<?pho
+
+	echo "Hello World!"
+
+?>
