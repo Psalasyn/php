@@ -1,5 +1,5 @@
 <?pho
 
-	echo "Hello World!"
+	echo "Olá Mundo!"
 
 ?>
